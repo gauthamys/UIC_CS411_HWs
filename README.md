@@ -1,1 +1,1 @@
-# CS411 Artificial Intelligence Course Homeworks and Assignments
+# CS411 Artificial Intelligence Course Homeworks
